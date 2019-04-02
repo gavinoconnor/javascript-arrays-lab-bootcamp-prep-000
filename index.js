@@ -7,8 +7,9 @@ var destructivelyAppendKitten = function(newCat) {
   return kittens;
 }
 
-var destructivelyPrependKitten = function() {
-
+var destructivelyPrependKitten = function(newCat) {
+  kittens.unshift(newCat);
+  return kittens
 }
 
 var destructivelyRemoveLastKitten = function() {
