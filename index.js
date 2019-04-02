@@ -12,11 +12,11 @@ var destructivelyPrependKitten = function() {
 }
 
 var destructivelyRemoveLastKitten = function() {
-  
+
 }
 
 var destructivelyRemoveFirstKitten = function() {
-  
+
 }
 
 var appendKitten = function() {
@@ -24,13 +24,13 @@ var appendKitten = function() {
 }
 
 var prependKitten = function() {
-  
+
 }
 
 var removeLastKitten = function() {
-  
+
 }
 
 var removeFirstKitten = function() {
-  
+
 }
